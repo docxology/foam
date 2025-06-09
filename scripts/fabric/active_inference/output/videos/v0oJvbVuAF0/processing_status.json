@@ -1,0 +1,15 @@
+{
+  "video_id": "v0oJvbVuAF0",
+  "title": "The Computational Boundary of a \u201cSelf\u201d: Developmental Bioelectricity Drives Multicellularity and Scale-Free Cognition",
+  "processing_started": "2025-06-09T09:05:52.201581",
+  "transcript_downloaded": false,
+  "transcript_error": "Exception during transcript download for v0oJvbVuAF0: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=v0oJvbVuAF0']' returned non-zero exit status 1.",
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for v0oJvbVuAF0: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "processing_failed": "2025-06-09T09:07:50.595749",
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T12:58:31.849912"
+}

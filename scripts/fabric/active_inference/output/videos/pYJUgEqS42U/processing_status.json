@@ -1,0 +1,14 @@
+{
+  "video_id": "pYJUgEqS42U",
+  "title": "Biological Neurons Compete with Deep Reinforcement Learning in Sample Efficiency in a Simulated Gameworld",
+  "processing_started": "2025-06-09T09:05:52.275432",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "patterns_completed": [
+    "summarize"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T12:29:56.414113"
+}

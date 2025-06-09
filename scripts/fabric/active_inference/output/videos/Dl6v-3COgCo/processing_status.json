@@ -1,0 +1,14 @@
+{
+  "video_id": "Dl6v-3COgCo",
+  "title": "Robot navigation as hierarchical active inference",
+  "processing_started": "2025-06-09T09:05:52.217410",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for Dl6v-3COgCo: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T12:59:15.940553"
+}

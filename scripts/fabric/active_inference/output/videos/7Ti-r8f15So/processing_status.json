@@ -1,0 +1,14 @@
+{
+  "video_id": "7Ti-r8f15So",
+  "title": "Textbook Group meeting for Parr, Pezzulo, Friston 2022.",
+  "processing_started": "2025-06-09T09:05:52.232873",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for 7Ti-r8f15So: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:00:33.244364"
+}

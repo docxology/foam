@@ -1,0 +1,6 @@
+Fabric analysis errors for qw0SkhnHWWI
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for qw0SkhnHWWI: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T12:58:42.705658

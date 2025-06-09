@@ -1,0 +1,3 @@
+Transcript download failed for i13aBAWuJxk
+Error: Exception during transcript download for i13aBAWuJxk: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=i13aBAWuJxk']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T09:06:21.904495

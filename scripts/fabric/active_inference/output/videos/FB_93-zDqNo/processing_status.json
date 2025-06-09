@@ -1,0 +1,14 @@
+{
+  "video_id": "FB_93-zDqNo",
+  "title": "Governing Continuous Transformation: Re-framing the Strategy-Governance Conversation",
+  "processing_started": "2025-06-09T09:05:52.235266",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for FB_93-zDqNo: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:00:46.921677"
+}

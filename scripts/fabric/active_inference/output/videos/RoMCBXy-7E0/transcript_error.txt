@@ -1,0 +1,3 @@
+Transcript download failed for RoMCBXy-7E0
+Error: Exception during transcript download for RoMCBXy-7E0: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=RoMCBXy-7E0']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T09:09:16.137082

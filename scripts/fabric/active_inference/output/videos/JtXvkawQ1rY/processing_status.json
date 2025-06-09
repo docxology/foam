@@ -1,0 +1,19 @@
+{
+  "video_id": "JtXvkawQ1rY",
+  "title": "The free energy principle: it\u2019s not about what it takes, it\u2019s about what took you there",
+  "processing_started": "2025-06-09T09:05:52.208340",
+  "transcript_downloaded": true,
+  "transcript_error": null,
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "transcript_completed": "2025-06-09T09:09:04.449694",
+  "patterns_completed": [
+    "summarize",
+    "extract_wisdom",
+    "extract_ideas",
+    "extract_insights",
+    "create_summary"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T11:37:23.334268"
+}

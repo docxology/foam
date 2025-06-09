@@ -1,0 +1,6 @@
+Fabric analysis errors for cULb4SvpD34
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for cULb4SvpD34: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:00:18.979433

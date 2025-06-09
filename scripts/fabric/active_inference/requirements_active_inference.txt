@@ -1,0 +1,103 @@
+# Requirements for Fabric Active Inference YouTube Channel Analyzer v2.1.0
+# Install with: pip install -r requirements_active_inference.txt
+
+# Core data processing and analysis
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Visualization libraries
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Advanced interactive visualizations
+plotly>=5.0.0
+dash>=2.0.0  # Optional: for advanced dashboards
+
+# Web requests and API interaction
+requests>=2.28.0
+
+# Configuration management
+PyYAML>=6.0
+
+# Data validation and typing
+pydantic>=1.10.0
+
+# YouTube transcript extraction
+youtube-transcript-api>=0.5.0
+yt-dlp>=2023.1.0
+
+# Machine Learning and Advanced Analytics
+scikit-learn>=1.1.0
+scipy>=1.9.0
+
+# Natural Language Processing
+textblob>=0.17.1
+nltk>=3.7
+spacy>=3.4.0
+
+# Word clouds and text visualization
+wordcloud>=1.9.0
+
+# Network analysis
+networkx>=2.8.0
+
+# Statistical analysis
+statsmodels>=0.13.0
+
+# Clustering and dimensionality reduction
+umap-learn>=0.5.0  # Alternative to t-SNE
+hdbscan>=0.8.0     # Advanced clustering
+
+# Topic modeling
+gensim>=4.2.0      # Advanced topic modeling
+
+# Time series analysis
+prophet>=1.1.0     # Time series forecasting
+seasonal>=0.3.0    # Seasonal decomposition
+
+# Image processing (for visualization enhancement)
+Pillow>=9.0.0
+
+# Progress bars and utilities
+tqdm>=4.64.0
+
+# Optional: Advanced NLP models
+# transformers>=4.20.0  # Uncomment for transformer-based analysis
+# torch>=1.12.0         # Required for transformers
+
+# Optional: Enhanced sentiment analysis
+# vaderSentiment>=3.3.2
+
+# Optional: YouTube Data API (if available)
+# google-api-python-client>=2.70.0
+
+# Optional: Enhanced data analysis
+# jupyterlab>=3.0.0  # For notebook analysis
+# ipywidgets>=7.7.0  # Interactive widgets
+
+# Development and testing (optional)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
+# mypy>=0.971  # Type checking
+
+# Note: This modular analyzer is designed to work with Fabric for transcript extraction
+# Ensure Fabric is properly installed and configured before running
+# Install Fabric: https://github.com/danielmiessler/fabric
+
+# Installation instructions:
+# 1. Create virtual environment: python -m venv venv_active_inference
+# 2. Activate: source venv_active_inference/bin/activate  # Linux/Mac
+#             venv_active_inference\Scripts\activate     # Windows
+# 3. Install: pip install -r requirements_active_inference.txt
+# 4. Download NLTK data: python -c "import nltk; nltk.download('punkt'); nltk.download('vader_lexicon')"
+# 5. Configure: Edit config.yaml with your settings
+# 6. Run: python -m scripts.fabric.active_inference.main 
+
+# Optional: Install additional language models
+# python -m spacy download en_core_web_sm
+
+# Performance optimization tips:
+# - Use conda instead of pip for better dependency resolution: conda install -c conda-forge package_name
+# - For large datasets, consider using Dask: pip install dask[complete]
+# - For GPU acceleration: pip install cupy-cuda11x (match your CUDA version) 

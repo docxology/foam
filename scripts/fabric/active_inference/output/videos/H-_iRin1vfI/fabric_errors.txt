@@ -1,0 +1,6 @@
+Fabric analysis errors for H-_iRin1vfI
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for H-_iRin1vfI: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:03:59.344547

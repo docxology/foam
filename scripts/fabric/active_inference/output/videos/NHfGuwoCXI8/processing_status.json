@@ -1,0 +1,19 @@
+{
+  "video_id": "NHfGuwoCXI8",
+  "title": "Consciousness as Precision Optimization: Some Physiological and Philosophical Considerations",
+  "processing_started": "2025-06-09T09:05:52.209972",
+  "transcript_downloaded": false,
+  "transcript_error": "Exception during transcript download for NHfGuwoCXI8: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=NHfGuwoCXI8']' returned non-zero exit status 1.",
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "processing_failed": "2025-06-09T09:09:30.002190",
+  "patterns_completed": [
+    "summarize",
+    "extract_wisdom",
+    "extract_ideas",
+    "extract_insights",
+    "create_summary"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T11:46:18.399051"
+}

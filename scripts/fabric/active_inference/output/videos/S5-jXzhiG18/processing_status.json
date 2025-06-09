@@ -1,0 +1,14 @@
+{
+  "video_id": "S5-jXzhiG18",
+  "title": "The free energy principle made simpler but not too simple",
+  "processing_started": "2025-06-09T09:05:52.221843",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for S5-jXzhiG18: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T12:59:47.901955"
+}

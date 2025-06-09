@@ -1,0 +1,19 @@
+{
+  "video_id": "imPNfqsHbjI",
+  "title": "Non-equilibrium thermodynamics and the free energy principle in biology",
+  "processing_started": "2025-06-09T09:05:52.205461",
+  "transcript_downloaded": true,
+  "transcript_error": null,
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "transcript_completed": "2025-06-09T09:08:32.440932",
+  "patterns_completed": [
+    "summarize",
+    "extract_wisdom",
+    "extract_ideas",
+    "extract_insights",
+    "create_summary"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T11:24:13.721712"
+}

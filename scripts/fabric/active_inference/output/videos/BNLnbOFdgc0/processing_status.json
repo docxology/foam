@@ -1,0 +1,14 @@
+{
+  "video_id": "BNLnbOFdgc0",
+  "title": "Basics of ActInf (Lecture) \u2014 Course home",
+  "processing_started": "2025-06-09T09:05:52.245395",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for BNLnbOFdgc0: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:01:47.783386"
+}

@@ -1,0 +1,14 @@
+{
+  "video_id": "thO3nsvgego",
+  "title": "Governing Continuous Transformation: Re-framing the Strategy- Governance Conversation",
+  "processing_started": "2025-06-09T09:05:52.233774",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for thO3nsvgego: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:00:38.664305"
+}

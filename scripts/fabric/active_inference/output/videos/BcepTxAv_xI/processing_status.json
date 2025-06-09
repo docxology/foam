@@ -1,0 +1,14 @@
+{
+  "video_id": "BcepTxAv_xI",
+  "title": "What could come before time? Intertwining affectivity and temporality at the basis of intentionality",
+  "processing_started": "2025-06-09T09:05:52.266475",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for BcepTxAv_xI: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:03:27.169874"
+}

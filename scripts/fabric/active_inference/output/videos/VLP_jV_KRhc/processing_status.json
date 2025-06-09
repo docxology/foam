@@ -1,0 +1,14 @@
+{
+  "video_id": "VLP_jV_KRhc",
+  "title": "2024 Quarterly Roundtable #2",
+  "processing_started": "2025-06-09T09:05:52.270712",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "patterns_completed": [
+    "summarize"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T12:28:19.089969"
+}

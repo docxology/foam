@@ -1,0 +1,3 @@
+Transcript download failed for QG2gOoX4XdA
+Error: Exception during transcript download for QG2gOoX4XdA: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=QG2gOoX4XdA']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T08:51:17.233700

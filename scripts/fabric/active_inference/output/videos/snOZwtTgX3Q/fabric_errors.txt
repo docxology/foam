@@ -1,0 +1,6 @@
+Fabric analysis errors for snOZwtTgX3Q
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for snOZwtTgX3Q: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:02:31.366352

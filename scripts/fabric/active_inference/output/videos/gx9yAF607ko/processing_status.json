@@ -1,0 +1,15 @@
+{
+  "video_id": "gx9yAF607ko",
+  "title": "Sophisticated Affective Inference: Simulating Anticipatory Affective Dynamics of Imagining Future Events",
+  "processing_started": "2025-06-09T09:05:52.188249",
+  "transcript_downloaded": false,
+  "transcript_error": "Exception during transcript download for gx9yAF607ko: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=gx9yAF607ko']' returned non-zero exit status 1.",
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for gx9yAF607ko: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "processing_failed": "2025-06-09T09:06:10.208110",
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:09:27.421226"
+}

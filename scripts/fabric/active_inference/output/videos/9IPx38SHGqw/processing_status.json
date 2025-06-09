@@ -1,0 +1,14 @@
+{
+  "video_id": "9IPx38SHGqw",
+  "title": "Physics of Creation - Can the Free Energy Principle ground the construction of physical statespaces?",
+  "processing_started": "2025-06-09T09:05:52.235890",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for 9IPx38SHGqw: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:00:49.434411"
+}

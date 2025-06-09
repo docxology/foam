@@ -1,0 +1,19 @@
+{
+  "video_id": "m8gUev5aVFs",
+  "title": "Exploring the Predictive Dynamics of Happiness and Well-Being",
+  "processing_started": "2025-06-09T09:05:52.202241",
+  "transcript_downloaded": false,
+  "transcript_error": "Exception during transcript download for m8gUev5aVFs: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=m8gUev5aVFs']' returned non-zero exit status 1.",
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "processing_failed": "2025-06-09T09:07:58.427000",
+  "patterns_completed": [
+    "summarize",
+    "extract_wisdom",
+    "extract_ideas",
+    "extract_insights",
+    "create_summary"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T11:14:14.491404"
+}

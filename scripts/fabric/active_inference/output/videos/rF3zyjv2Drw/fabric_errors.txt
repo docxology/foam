@@ -1,0 +1,6 @@
+Fabric analysis errors for rF3zyjv2Drw
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for rF3zyjv2Drw: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:02:49.078620

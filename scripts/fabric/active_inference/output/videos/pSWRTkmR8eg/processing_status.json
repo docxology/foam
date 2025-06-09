@@ -1,0 +1,19 @@
+{
+  "video_id": "pSWRTkmR8eg",
+  "title": "The Projective Consciousness Model and Phenomenal Selfhood",
+  "processing_started": "2025-06-09T09:05:52.187374",
+  "transcript_downloaded": false,
+  "transcript_error": "Exception during transcript download for pSWRTkmR8eg: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=pSWRTkmR8eg']' returned non-zero exit status 1.",
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "processing_failed": "2025-06-09T09:06:02.805797",
+  "patterns_completed": [
+    "summarize",
+    "extract_wisdom",
+    "extract_ideas",
+    "extract_insights",
+    "create_summary"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T10:34:06.693829"
+}

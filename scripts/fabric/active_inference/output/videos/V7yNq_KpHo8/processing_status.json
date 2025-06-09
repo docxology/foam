@@ -1,0 +1,15 @@
+{
+  "video_id": "V7yNq_KpHo8",
+  "title": "Multiscale integration: beyond internalism and externalism",
+  "processing_started": "2025-06-09T09:05:52.185524",
+  "transcript_downloaded": true,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for V7yNq_KpHo8: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "transcript_completed": "2025-06-09T09:05:55.108784",
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:09:22.192044"
+}

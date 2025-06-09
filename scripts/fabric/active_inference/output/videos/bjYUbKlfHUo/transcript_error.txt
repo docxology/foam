@@ -1,0 +1,3 @@
+Transcript download failed for bjYUbKlfHUo
+Error: Exception during transcript download for bjYUbKlfHUo: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=bjYUbKlfHUo']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T09:07:34.596067

@@ -1,0 +1,14 @@
+{
+  "video_id": "VLTXPOsrg_s",
+  "title": "Slime Mould and Philosophy",
+  "processing_started": "2025-06-09T09:05:52.281457",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "patterns_completed": [
+    "summarize"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T12:33:24.749000"
+}

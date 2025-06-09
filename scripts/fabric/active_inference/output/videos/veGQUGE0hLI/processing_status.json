@@ -1,0 +1,14 @@
+{
+  "video_id": "veGQUGE0hLI",
+  "title": "Collective Predictive Coding and Active Inference: A New Perspective on Emergent Communication",
+  "processing_started": "2025-06-09T09:05:52.287554",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for veGQUGE0hLI: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:06:21.764454"
+}

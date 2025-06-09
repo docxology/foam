@@ -1,0 +1,6 @@
+Fabric analysis errors for Z4S5JVoeGBw
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for Z4S5JVoeGBw: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T12:58:50.180879

@@ -1,0 +1,3 @@
+Transcript download failed for eZlG_J7sPj4
+Error: Exception during transcript download for eZlG_J7sPj4: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=eZlG_J7sPj4']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T09:07:56.279957

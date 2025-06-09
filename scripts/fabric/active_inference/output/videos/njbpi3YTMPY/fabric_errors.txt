@@ -1,0 +1,6 @@
+Fabric analysis errors for njbpi3YTMPY
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for njbpi3YTMPY: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:02:46.205772

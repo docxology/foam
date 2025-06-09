@@ -1,0 +1,19 @@
+{
+  "video_id": "5VPKmVoRvRY",
+  "title": "\u201cFree-Energy Principle, Computationalism and Realism: a Tragedy\"",
+  "processing_started": "2025-06-09T08:36:46.302044",
+  "transcript_downloaded": true,
+  "transcript_error": null,
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "transcript_completed": "2025-06-09T08:37:43.120657",
+  "patterns_completed": [
+    "summarize",
+    "extract_wisdom",
+    "extract_ideas",
+    "extract_insights",
+    "create_summary"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T08:45:04.989891"
+}

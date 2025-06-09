@@ -1,0 +1,14 @@
+{
+  "video_id": "hY_CajLpt9Q",
+  "title": "Canonical neural networks perform active inference",
+  "processing_started": "2025-06-09T09:05:52.233091",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for hY_CajLpt9Q: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:00:37.088843"
+}

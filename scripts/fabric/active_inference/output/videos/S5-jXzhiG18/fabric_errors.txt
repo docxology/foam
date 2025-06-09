@@ -1,0 +1,6 @@
+Fabric analysis errors for S5-jXzhiG18
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for S5-jXzhiG18: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T12:59:47.902339

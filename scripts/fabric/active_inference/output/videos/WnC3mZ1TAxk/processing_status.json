@@ -1,0 +1,14 @@
+{
+  "video_id": "WnC3mZ1TAxk",
+  "title": "Categorical Mental Imagery: Visualizing the 4th Spatial Dimension",
+  "processing_started": "2025-06-09T09:05:52.269872",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for WnC3mZ1TAxk: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:03:51.421961"
+}

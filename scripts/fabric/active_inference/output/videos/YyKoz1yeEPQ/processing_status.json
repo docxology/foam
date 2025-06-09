@@ -1,0 +1,14 @@
+{
+  "video_id": "YyKoz1yeEPQ",
+  "title": "Textbook Group meeting for Parr, Pezzulo, Friston 2022.",
+  "processing_started": "2025-06-09T09:05:52.274310",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for YyKoz1yeEPQ: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:04:10.806869"
+}

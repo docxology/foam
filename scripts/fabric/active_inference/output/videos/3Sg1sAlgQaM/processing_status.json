@@ -1,0 +1,15 @@
+{
+  "video_id": "3Sg1sAlgQaM",
+  "title": "A variational approach to scripts",
+  "processing_started": "2025-06-09T09:05:52.187900",
+  "transcript_downloaded": false,
+  "transcript_error": "Exception during transcript download for 3Sg1sAlgQaM: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=3Sg1sAlgQaM']' returned non-zero exit status 1.",
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for 3Sg1sAlgQaM: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "processing_failed": "2025-06-09T09:06:06.553352",
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:09:24.341778"
+}

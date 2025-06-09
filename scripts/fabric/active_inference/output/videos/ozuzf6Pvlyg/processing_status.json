@@ -1,0 +1,15 @@
+{
+  "video_id": "ozuzf6Pvlyg",
+  "title": "2022 Quarterly Roundtable #1",
+  "processing_started": "2025-06-09T09:05:52.216782",
+  "transcript_downloaded": false,
+  "transcript_error": "Exception during transcript download for ozuzf6Pvlyg: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=ozuzf6Pvlyg']' returned non-zero exit status 1.",
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for ozuzf6Pvlyg: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "processing_failed": "2025-06-09T09:10:05.565867",
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T12:59:13.615558"
+}

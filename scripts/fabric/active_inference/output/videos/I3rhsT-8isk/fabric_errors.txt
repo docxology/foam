@@ -1,0 +1,6 @@
+Fabric analysis errors for I3rhsT-8isk
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for I3rhsT-8isk: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:03:15.249305

@@ -1,0 +1,15 @@
+{
+  "video_id": "RoMCBXy-7E0",
+  "title": "A tale of two architectures free energy, its models, and modularity",
+  "processing_started": "2025-06-09T09:05:52.209205",
+  "transcript_downloaded": false,
+  "transcript_error": "Exception during transcript download for RoMCBXy-7E0: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=RoMCBXy-7E0']' returned non-zero exit status 1.",
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for RoMCBXy-7E0: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "processing_failed": "2025-06-09T09:09:16.136848",
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T12:58:59.554438"
+}

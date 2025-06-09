@@ -1,0 +1,3 @@
+Transcript download failed for 4XR8mIw9gcc
+Error: Exception during transcript download for 4XR8mIw9gcc: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=4XR8mIw9gcc']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T09:08:34.245845

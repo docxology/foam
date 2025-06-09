@@ -1,0 +1,14 @@
+{
+  "video_id": "57-aRIjUrC4",
+  "title": "Free Energy Principle & Active Inference in Synthetic Biological Intelligence: Existing Evidence & Current Challenges",
+  "processing_started": "2025-06-09T09:05:52.234012",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for 57-aRIjUrC4: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:00:40.158233"
+}

@@ -1,0 +1,6 @@
+Fabric analysis errors for oJZSGW2kCYY
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for oJZSGW2kCYY: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:02:55.421800

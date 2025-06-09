@@ -1,0 +1,6 @@
+Fabric analysis errors for BcepTxAv_xI
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for BcepTxAv_xI: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:03:27.170480

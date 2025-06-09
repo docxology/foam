@@ -1,0 +1,6 @@
+Fabric analysis errors for ygmAhA18mkQ
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for ygmAhA18mkQ: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:03:46.762142

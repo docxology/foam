@@ -1,0 +1,19 @@
+{
+  "video_id": "SAc1F1AWRAs",
+  "title": "Cultural Affordances: Scaffolding Local Worlds Through Shared Intentionality and Regimes of Attention",
+  "processing_started": "2025-06-09T08:11:34.726147",
+  "transcript_downloaded": true,
+  "transcript_error": null,
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "transcript_completed": "2025-06-09T08:11:45.844745",
+  "patterns_completed": [
+    "summarize",
+    "extract_wisdom",
+    "extract_ideas",
+    "extract_insights",
+    "create_summary"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T08:16:48.182880"
+}

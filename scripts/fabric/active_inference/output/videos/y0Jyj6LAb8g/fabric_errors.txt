@@ -1,0 +1,6 @@
+Fabric analysis errors for y0Jyj6LAb8g
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for y0Jyj6LAb8g: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:01:37.091169

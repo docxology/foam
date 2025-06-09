@@ -1,0 +1,20 @@
+{
+  "video_id": "INRaCBikpso",
+  "title": "1st Applied Active Inference Symposium, part 2 (.comms)",
+  "processing_started": "2025-06-09T09:05:52.200218",
+  "transcript_downloaded": true,
+  "transcript_error": "Exception during transcript download for INRaCBikpso: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=INRaCBikpso']' returned non-zero exit status 1.",
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "transcript_completed": "2025-06-09T09:07:38.638914",
+  "processing_failed": "2025-06-09T09:07:40.548751",
+  "patterns_completed": [
+    "summarize",
+    "extract_wisdom",
+    "extract_ideas",
+    "extract_insights",
+    "create_summary"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T11:05:15.450627"
+}

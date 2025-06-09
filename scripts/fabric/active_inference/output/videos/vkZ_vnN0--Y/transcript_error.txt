@@ -1,0 +1,3 @@
+Transcript download failed for vkZ_vnN0--Y
+Error: Exception during transcript download for vkZ_vnN0--Y: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=vkZ_vnN0--Y']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T09:09:08.140570

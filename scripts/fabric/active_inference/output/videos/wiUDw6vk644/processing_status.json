@@ -1,0 +1,19 @@
+{
+  "video_id": "wiUDw6vk644",
+  "title": "Psychophysical identity and free energy",
+  "processing_started": "2025-06-09T09:05:52.198509",
+  "transcript_downloaded": true,
+  "transcript_error": null,
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "transcript_completed": "2025-06-09T09:07:20.953900",
+  "patterns_completed": [
+    "summarize",
+    "extract_wisdom",
+    "extract_ideas",
+    "extract_insights",
+    "create_summary"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T10:58:10.749071"
+}

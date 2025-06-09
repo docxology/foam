@@ -1,0 +1,19 @@
+{
+  "video_id": "y4tljwMAWho",
+  "title": "A tale of two densities: active inference is enactive inference",
+  "processing_started": "2025-06-09T08:11:34.727017",
+  "transcript_downloaded": true,
+  "transcript_error": null,
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "transcript_completed": "2025-06-09T08:11:57.524005",
+  "patterns_completed": [
+    "summarize",
+    "extract_wisdom",
+    "extract_ideas",
+    "extract_insights",
+    "create_summary"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T08:17:45.922312"
+}

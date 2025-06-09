@@ -1,0 +1,14 @@
+{
+  "video_id": "S8z_Y95WBeE",
+  "title": "2024 Active Inference Livestream Review",
+  "processing_started": "2025-06-09T09:05:52.280867",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "patterns_completed": [
+    "summarize"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T12:33:13.720159"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "H6rjjPZE5hs",
+  "title": "Extended active inference: Constructing predictive cognition beyond skulls",
+  "processing_started": "2025-06-09T09:05:52.217117",
+  "transcript_downloaded": true,
+  "transcript_error": null,
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "transcript_completed": "2025-06-09T09:10:09.521150",
+  "patterns_completed": [
+    "summarize",
+    "extract_wisdom",
+    "extract_ideas",
+    "extract_insights",
+    "create_summary"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T11:57:03.507849"
+}

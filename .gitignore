@@ -11,3 +11,5 @@ docs/_site
 docs/.sass-cache
 docs/.jekyll-metadata
 .test-workspace
+*.pyc
+/venv_fabric_foam

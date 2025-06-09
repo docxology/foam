@@ -1,0 +1,19 @@
+{
+  "video_id": "mbEqoCV16q4",
+  "title": "Science-Driven Societal Transformation, Part I: Worldview                                                 Science-Driven Societal Transformation, Part II: Motivation and Strategy                                                       Science-Driven Societal Transformation, Part III: Design",
+  "processing_started": "2025-06-09T09:05:52.195838",
+  "transcript_downloaded": false,
+  "transcript_error": "Exception during transcript download for mbEqoCV16q4: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=mbEqoCV16q4']' returned non-zero exit status 1.",
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "processing_failed": "2025-06-09T09:07:09.008357",
+  "patterns_completed": [
+    "summarize",
+    "extract_wisdom",
+    "extract_ideas",
+    "extract_insights",
+    "create_summary"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T10:54:13.026816"
+}

@@ -1,0 +1,14 @@
+{
+  "video_id": "52eHP5ReG34",
+  "title": "CogNarr Ecosystem: Preliminary Thoughts on a Story Graph Meaning Representation",
+  "processing_started": "2025-06-09T09:05:52.276499",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for 52eHP5ReG34: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:04:28.011066"
+}

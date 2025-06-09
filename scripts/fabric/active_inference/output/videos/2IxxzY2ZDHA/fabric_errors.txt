@@ -1,0 +1,6 @@
+Fabric analysis errors for 2IxxzY2ZDHA
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for 2IxxzY2ZDHA: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:02:07.263419

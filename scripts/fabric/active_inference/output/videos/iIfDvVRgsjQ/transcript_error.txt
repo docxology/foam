@@ -1,0 +1,3 @@
+Transcript download failed for iIfDvVRgsjQ
+Error: Exception during transcript download for iIfDvVRgsjQ: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=iIfDvVRgsjQ']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T09:08:54.755344

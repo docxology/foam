@@ -1,0 +1,3 @@
+Transcript download failed for AUXWQzpr2x8
+Error: Exception during transcript download for AUXWQzpr2x8: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=AUXWQzpr2x8']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T09:07:28.777319

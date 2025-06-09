@@ -1,0 +1,6 @@
+Fabric analysis errors for CV7fsxhgVe0
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for CV7fsxhgVe0: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:05:59.033937

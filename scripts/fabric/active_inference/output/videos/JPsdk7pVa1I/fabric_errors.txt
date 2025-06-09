@@ -1,0 +1,6 @@
+Fabric analysis errors for JPsdk7pVa1I
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for JPsdk7pVa1I: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T12:59:50.576622

@@ -1,0 +1,6 @@
+Fabric analysis errors for hIIyYu2C-SI
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for hIIyYu2C-SI: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:00:12.932569

@@ -1,0 +1,6 @@
+Fabric analysis errors for rblchIvoEIY
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for rblchIvoEIY: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:04:06.779165

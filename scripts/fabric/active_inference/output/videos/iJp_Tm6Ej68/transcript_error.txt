@@ -1,0 +1,3 @@
+Transcript download failed for iJp_Tm6Ej68
+Error: Exception during transcript download for iJp_Tm6Ej68: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=iJp_Tm6Ej68']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T09:06:19.816900

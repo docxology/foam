@@ -1,0 +1,14 @@
+{
+  "video_id": "oJZSGW2kCYY",
+  "title": "Mortal Computation, Cybernetics, AI",
+  "processing_started": "2025-06-09T09:05:52.258874",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for oJZSGW2kCYY: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:02:55.420902"
+}

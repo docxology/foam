@@ -1,0 +1,3 @@
+Transcript download failed for Sxst-xBTMvU
+Error: Exception during transcript download for Sxst-xBTMvU: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=Sxst-xBTMvU']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T09:07:07.011652

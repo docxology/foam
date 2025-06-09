@@ -1,0 +1,6 @@
+Fabric analysis errors for bSPQ3BkqTh4
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for bSPQ3BkqTh4: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:02:29.765226

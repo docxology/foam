@@ -1,0 +1,14 @@
+{
+  "video_id": "6E4CpJvzddg",
+  "title": "FieldSHIFT-2: Fully Synthetic Dissertations for All-by-All Shifted Domains",
+  "processing_started": "2025-06-09T09:05:52.274101",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for 6E4CpJvzddg: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:04:08.955043"
+}

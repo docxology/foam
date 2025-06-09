@@ -1,0 +1,14 @@
+{
+  "video_id": "M3r2AMBFZBo",
+  "title": "Textbook Group meeting for Parr, Pezzulo, Friston 2022.",
+  "processing_started": "2025-06-09T09:05:52.275891",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "patterns_completed": [
+    "summarize"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T12:30:05.600042"
+}

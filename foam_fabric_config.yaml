@@ -1,0 +1,16 @@
+output_formats:
+  enhanced_notes: markdown
+  extractions: json
+  summaries: markdown
+patterns:
+  analyze_content: analyze_prose
+  create_tags: extract_main_activities
+  extract_questions: extract_questions
+  extract_wisdom: extract_wisdom
+  improve_writing: improve_writing
+  summarize: summarize
+workflows:
+  creative_writing: true
+  knowledge_extraction: true
+  note_enhancement: true
+  research_assistance: true

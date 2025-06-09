@@ -1,0 +1,14 @@
+{
+  "video_id": "eZDSNPFS0Fs",
+  "title": "Could large language models be conscious? A perspective from the free energy principle",
+  "processing_started": "2025-06-09T09:05:52.240617",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "patterns_completed": [
+    "summarize"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T12:16:44.462843"
+}

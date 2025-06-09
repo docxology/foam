@@ -1,0 +1,10 @@
+{
+  "video_id": "S5nXqPysU3I",
+  "title": "Thinking like a State - Embodied intelligence in the deep history of our collective minds",
+  "processing_started": "2025-06-09T09:05:52.208028",
+  "transcript_downloaded": false,
+  "transcript_error": "Exception during transcript download for S5nXqPysU3I: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=S5nXqPysU3I']' returned non-zero exit status 1.",
+  "fabric_analyses_completed": false,
+  "fabric_errors": [],
+  "processing_failed": "2025-06-09T09:09:00.633704"
+}

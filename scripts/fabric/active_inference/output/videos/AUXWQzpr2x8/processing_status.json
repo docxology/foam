@@ -1,0 +1,15 @@
+{
+  "video_id": "AUXWQzpr2x8",
+  "title": "2021 Quarterly Roundtable #2",
+  "processing_started": "2025-06-09T09:05:52.199209",
+  "transcript_downloaded": false,
+  "transcript_error": "Exception during transcript download for AUXWQzpr2x8: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=AUXWQzpr2x8']' returned non-zero exit status 1.",
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for AUXWQzpr2x8: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "processing_failed": "2025-06-09T09:07:28.776964",
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T12:58:21.661575"
+}

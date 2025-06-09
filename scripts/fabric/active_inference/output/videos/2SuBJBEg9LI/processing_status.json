@@ -1,0 +1,14 @@
+{
+  "video_id": "2SuBJBEg9LI",
+  "title": "A Worked Example of the Bayesian Mechanics of Classical Objects",
+  "processing_started": "2025-06-09T09:05:52.231041",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for 2SuBJBEg9LI: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:00:20.072379"
+}

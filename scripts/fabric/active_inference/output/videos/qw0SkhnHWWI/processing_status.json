@@ -1,0 +1,15 @@
+{
+  "video_id": "qw0SkhnHWWI",
+  "title": "Active Inference: Applicability to Different Types of Social Organization Explained through Reference to Industrial Engineering and Quality Management",
+  "processing_started": "2025-06-09T09:05:52.203371",
+  "transcript_downloaded": false,
+  "transcript_error": "Exception during transcript download for qw0SkhnHWWI: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=qw0SkhnHWWI']' returned non-zero exit status 1.",
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for qw0SkhnHWWI: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "processing_failed": "2025-06-09T09:08:09.159650",
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T12:58:42.704933"
+}

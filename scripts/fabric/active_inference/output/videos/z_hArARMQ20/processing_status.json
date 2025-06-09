@@ -1,0 +1,15 @@
+{
+  "video_id": "z_hArARMQ20",
+  "title": "Deeply Felt Affect: The Emergence of Valence in Deep Active Inference",
+  "processing_started": "2025-06-09T09:05:52.193896",
+  "transcript_downloaded": false,
+  "transcript_error": "Exception during transcript download for z_hArARMQ20: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=z_hArARMQ20']' returned non-zero exit status 1.",
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for z_hArARMQ20: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "processing_failed": "2025-06-09T09:06:49.265808",
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:09:48.107993"
+}

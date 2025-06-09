@@ -1,0 +1,19 @@
+{
+  "video_id": "0OQx04x8-zA",
+  "title": "The evolution of brain architectures for predictive coding and active inference",
+  "processing_started": "2025-06-09T09:05:52.213896",
+  "transcript_downloaded": true,
+  "transcript_error": null,
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "transcript_completed": "2025-06-09T09:09:46.575610",
+  "patterns_completed": [
+    "summarize",
+    "extract_wisdom",
+    "extract_ideas",
+    "extract_insights",
+    "create_summary"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T11:51:30.555133"
+}

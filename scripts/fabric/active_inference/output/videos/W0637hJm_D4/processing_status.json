@@ -1,0 +1,14 @@
+{
+  "video_id": "W0637hJm_D4",
+  "title": "2022 Quarterly Roundtable #4",
+  "processing_started": "2025-06-09T09:05:52.234331",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "patterns_completed": [
+    "summarize"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T12:14:29.407341"
+}

@@ -1,0 +1,6 @@
+Fabric analysis errors for 0sS-Qf60Uaw
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for 0sS-Qf60Uaw: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:03:33.619121

@@ -1,0 +1,6 @@
+Fabric analysis errors for Oq2oM55OKzE
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for Oq2oM55OKzE: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T12:58:43.706774

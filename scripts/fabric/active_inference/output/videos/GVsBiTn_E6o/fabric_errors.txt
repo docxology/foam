@@ -1,0 +1,6 @@
+Fabric analysis errors for GVsBiTn_E6o
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for GVsBiTn_E6o: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:05:49.632554

@@ -1,0 +1,6 @@
+Fabric analysis errors for 9LKWp5nydnA
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for 9LKWp5nydnA: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:06:06.494135

@@ -1,0 +1,6 @@
+Fabric analysis errors for 0Cx5MTNxs-0
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for 0Cx5MTNxs-0: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:04:19.863767

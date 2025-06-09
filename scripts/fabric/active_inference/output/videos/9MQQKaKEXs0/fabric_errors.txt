@@ -1,0 +1,6 @@
+Fabric analysis errors for 9MQQKaKEXs0
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for 9MQQKaKEXs0: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T12:59:44.292612

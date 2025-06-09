@@ -1,0 +1,14 @@
+{
+  "video_id": "GfImcptiLsY",
+  "title": "Mathematical Foundations for a Compositional Account of the Bayesian Brain",
+  "processing_started": "2025-06-09T09:05:52.243737",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for GfImcptiLsY: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:01:35.671822"
+}

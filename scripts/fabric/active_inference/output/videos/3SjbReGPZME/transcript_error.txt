@@ -1,0 +1,3 @@
+Transcript download failed for 3SjbReGPZME
+Error: Exception during transcript download for 3SjbReGPZME: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=3SjbReGPZME']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T09:09:06.334076

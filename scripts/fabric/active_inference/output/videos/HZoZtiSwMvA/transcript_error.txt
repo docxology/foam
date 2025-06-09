@@ -1,0 +1,3 @@
+Transcript download failed for HZoZtiSwMvA
+Error: Exception during transcript download for HZoZtiSwMvA: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=HZoZtiSwMvA']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T08:13:04.245364

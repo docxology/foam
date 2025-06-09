@@ -1,0 +1,102 @@
+# Active Inference YouTube Channel Analyzer Configuration
+version: '2.1.0'
+
+# Data Sources
+data:
+  csv_file: 'video_information_active_inference_06-08-2025.csv'
+  channel_url: 'http://youtube.com/@activeinference'
+
+# Output Settings
+output:
+  base_dir: 'output'
+  # New hierarchical structure
+  structure:
+    videos_dir: 'videos' # Individual video folders go here
+    reports_dir: 'reports'
+    visualizations_dir: 'visualizations'
+    logs_dir: 'logs'
+
+  # File naming patterns
+  naming:
+    video_folder: '{video_id}' # e.g., "C94WDXAe4EE"
+    transcript_file: 'transcript.txt'
+    fabric_pattern_file: '{pattern}.md' # e.g., "summarize.md"
+    metadata_file: 'metadata.json'
+
+# Processing Settings
+processing:
+  max_videos: 620
+  force_download_transcripts: true
+  transcript_batch_size: 5 # Process in smaller batches for stability
+  rate_limit_delay: 1
+  skip_existing_transcripts: true # Skip existing transcripts for efficiency
+  skip_existing_analyses: true # Skip if fabric analysis already exists
+
+# Fabric Analysis Settings
+fabric:
+  binary_path: '/home/trim/go/bin/fabric' # Full absolute path
+  patterns:
+    - 'summarize'
+    # - 'extract_wisdom'
+    # - 'extract_ideas'
+    # - 'extract_insights'
+    # - 'create_summary'
+  timeout: 300 # Seconds per pattern analysis
+  retry_attempts: 3
+  save_individual_files: true # Save each pattern as separate file
+
+# Visualization Settings
+visualization:
+  create_charts: true
+  style: 'seaborn-v0_8' # Matplotlib style
+  color_palette: 'husl' # Seaborn color palette
+  dpi: 300 # High resolution for publications
+  figure_format: 'png' # Output format
+  chart_types:
+    # Standard Analytics Visualizations
+    - 'views_vs_likes_scatter'
+    - 'publication_timeline'
+    - 'duration_distribution'
+    - 'transcript_analysis'
+    - 'top_videos_chart'
+    - 'series_distribution'
+    - 'engagement_metrics'
+    - 'monthly_activity'
+    - 'content_length_correlation'
+
+    # Advanced Statistical Visualizations
+    - 'pca_analysis' # Principal Component Analysis
+    - 'correlation_heatmap' # Feature correlation matrix
+    - 'clustering_analysis' # K-means and DBSCAN clustering
+    - 'statistical_distributions' # Distribution analysis and outlier detection
+    - 'time_series_analysis' # Temporal patterns and seasonality
+    - 'hierarchical_clustering' # Dendrogram and cluster hierarchy
+    - 'tsne_visualization' # t-SNE dimensionality reduction
+
+    # Natural Language Processing Visualizations
+    - 'sentiment_analysis' # Sentiment polarity and subjectivity
+    - 'topic_modeling' # LDA topic discovery
+    - 'word_cloud' # Word frequency clouds
+    - 'content_ontology' # Domain concept mapping
+    - 'semantic_similarity' # Content similarity networks
+
+    # Network and Relationship Analysis
+    - 'network_analysis' # Video relationship networks
+    - 'content_evolution' # Content change over time
+    - 'comparative_analysis' # Cross-series comparisons
+
+    # Predictive and Advanced Analytics
+    - 'feature_importance' # ML feature significance
+    - 'anomaly_detection' # Outlier and anomaly identification
+    - 'trend_analysis' # Trend forecasting
+    - 'engagement_prediction' # Engagement modeling
+    - 'multi_dimensional_scaling' # MDS visualization
+
+    # Interactive Visualizations
+    - 'interactive_dashboard' # Plotly interactive dashboard
+
+# Logging Settings
+logging:
+  level: 'INFO'
+  format: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+  file_prefix: 'active_inference_analysis'

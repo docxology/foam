@@ -1,0 +1,3 @@
+Transcript download failed for R4C_DgP_khY
+Error: Exception during transcript download for R4C_DgP_khY: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=R4C_DgP_khY']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T09:09:50.309869

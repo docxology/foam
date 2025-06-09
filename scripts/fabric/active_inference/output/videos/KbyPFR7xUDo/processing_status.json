@@ -1,0 +1,20 @@
+{
+  "video_id": "KbyPFR7xUDo",
+  "title": "Morphogenesis as Bayesian inference: A variational approach to pattern formation and control in complex biological systems",
+  "processing_started": "2025-06-09T09:05:52.215017",
+  "transcript_downloaded": false,
+  "transcript_error": "Exception during transcript download for KbyPFR7xUDo: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=KbyPFR7xUDo']' returned non-zero exit status 1.",
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during extract_wisdom analysis for KbyPFR7xUDo: Command '['/home/trim/go/bin/fabric', '--pattern', 'extract_wisdom']' returned non-zero exit status 1."
+  ],
+  "processing_failed": "2025-06-09T09:09:52.210926",
+  "patterns_completed": [
+    "summarize",
+    "extract_ideas",
+    "extract_insights",
+    "create_summary"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T11:52:55.119371"
+}

@@ -1,0 +1,23 @@
+{
+  "video_id": "601-lt_8eVE",
+  "title": "Is the free-energy principle a formal theory of semantics? From variational density dynamics to neural and phenotypic representations",
+  "processing_started": "2025-06-09T08:11:34.725757",
+  "transcript_downloaded": true,
+  "transcript_error": null,
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "transcript_completed": "2025-06-09T08:11:37.960714",
+  "patterns_completed": [
+    "summarize",
+    "extract_wisdom",
+    "extract_ideas",
+    "extract_insights",
+    "create_summary"
+  ],
+  "patterns_skipped": [
+    "summarize",
+    "extract_ideas",
+    "extract_insights"
+  ],
+  "fabric_analysis_finished": "2025-06-09T08:15:04.826723"
+}

@@ -1,0 +1,10 @@
+{
+  "video_id": "5oSqT8a6-dQ",
+  "title": "\u2018I interact therefore I am\u2019 Human becoming in and through social interaction",
+  "processing_started": "2025-06-09T09:05:52.191531",
+  "transcript_downloaded": false,
+  "transcript_error": "Exception during transcript download for 5oSqT8a6-dQ: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=5oSqT8a6-dQ']' returned non-zero exit status 1.",
+  "fabric_analyses_completed": false,
+  "fabric_errors": [],
+  "processing_failed": "2025-06-09T09:06:33.465287"
+}

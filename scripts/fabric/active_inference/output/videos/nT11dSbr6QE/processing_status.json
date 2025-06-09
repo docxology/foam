@@ -1,0 +1,14 @@
+{
+  "video_id": "nT11dSbr6QE",
+  "title": "NoOrg is a Real Org",
+  "processing_started": "2025-06-09T09:05:52.288171",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for nT11dSbr6QE: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:06:23.298172"
+}

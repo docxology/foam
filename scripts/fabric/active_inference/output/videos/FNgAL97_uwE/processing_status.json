@@ -1,0 +1,14 @@
+{
+  "video_id": "FNgAL97_uwE",
+  "title": "Practical Collective Sensemaking",
+  "processing_started": "2025-06-09T09:05:52.260720",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for FNgAL97_uwE: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:03:00.340713"
+}

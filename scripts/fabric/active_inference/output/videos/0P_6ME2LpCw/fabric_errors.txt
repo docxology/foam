@@ -1,0 +1,6 @@
+Fabric analysis errors for 0P_6ME2LpCw
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for 0P_6ME2LpCw: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:00:48.497133

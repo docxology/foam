@@ -1,0 +1,6 @@
+Fabric analysis errors for yknM6SFlPPc
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for yknM6SFlPPc: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:04:01.372917

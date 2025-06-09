@@ -1,0 +1,6 @@
+Fabric analysis errors for Wn65WcYGQSA
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for Wn65WcYGQSA: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:04:02.331121

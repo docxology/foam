@@ -1,0 +1,14 @@
+{
+  "video_id": "h0Tfm2lw6PQ",
+  "title": "Agency with structured latent state-spaces: a model for computational phenomenology.",
+  "processing_started": "2025-06-09T09:05:52.249612",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for h0Tfm2lw6PQ: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:02:16.923585"
+}

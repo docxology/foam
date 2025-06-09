@@ -1,0 +1,14 @@
+{
+  "video_id": "_MH7E58zKxY",
+  "title": "A proposal for deflating deflationary accounts of free will; consciousness and the readiness to act",
+  "processing_started": "2025-06-09T09:05:52.217861",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for _MH7E58zKxY: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T12:59:30.046962"
+}

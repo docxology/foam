@@ -1,0 +1,19 @@
+{
+  "video_id": "lwVIUz7O0jg",
+  "title": "The First Prior: from Co-Embodiment to Co-Homeostasis in Early Life",
+  "processing_started": "2025-06-09T09:05:52.196247",
+  "transcript_downloaded": false,
+  "transcript_error": "Exception during transcript download for lwVIUz7O0jg: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=lwVIUz7O0jg']' returned non-zero exit status 1.",
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "processing_failed": "2025-06-09T09:07:12.764435",
+  "patterns_completed": [
+    "summarize",
+    "extract_wisdom",
+    "extract_ideas",
+    "extract_insights",
+    "create_summary"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T10:56:04.298291"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "zVvTAnRwigQ",
+  "title": "Event-Predictive Active Inference: Developing Conceptual, Compositional Cognition from Sensorimotor Experiences",
+  "processing_started": "2025-06-09T09:05:52.206091",
+  "transcript_downloaded": true,
+  "transcript_error": null,
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "transcript_completed": "2025-06-09T09:08:38.203150",
+  "patterns_completed": [
+    "summarize",
+    "extract_wisdom",
+    "extract_ideas",
+    "extract_insights",
+    "create_summary"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T11:27:08.551338"
+}

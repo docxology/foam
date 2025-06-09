@@ -1,0 +1,14 @@
+{
+  "video_id": "sKVZykutOD0",
+  "title": "Hemispheric Lateralisation, Relationality, Being-In-The-World",
+  "processing_started": "2025-06-09T09:05:52.270857",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for sKVZykutOD0: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:03:56.208823"
+}

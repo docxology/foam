@@ -1,0 +1,3 @@
+Transcript download failed for Y8Y4f-SEcsI
+Error: Exception during transcript download for Y8Y4f-SEcsI: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=Y8Y4f-SEcsI']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T09:06:39.113531

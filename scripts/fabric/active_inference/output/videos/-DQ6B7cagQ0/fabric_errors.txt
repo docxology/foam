@@ -1,0 +1,6 @@
+Fabric analysis errors for -DQ6B7cagQ0
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for -DQ6B7cagQ0: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:04:04.135814

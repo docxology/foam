@@ -1,0 +1,19 @@
+{
+  "video_id": "4hTT6fUTMM8",
+  "title": "End of 2021 Review",
+  "processing_started": "2025-06-09T09:05:52.208965",
+  "transcript_downloaded": false,
+  "transcript_error": "Exception during transcript download for 4hTT6fUTMM8: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=4hTT6fUTMM8']' returned non-zero exit status 1.",
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "processing_failed": "2025-06-09T09:09:12.390771",
+  "patterns_completed": [
+    "summarize",
+    "extract_wisdom",
+    "extract_ideas",
+    "extract_insights",
+    "create_summary"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T11:40:02.627403"
+}

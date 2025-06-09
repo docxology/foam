@@ -1,0 +1,6 @@
+Fabric analysis errors for 2SuBJBEg9LI
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for 2SuBJBEg9LI: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:00:20.072882

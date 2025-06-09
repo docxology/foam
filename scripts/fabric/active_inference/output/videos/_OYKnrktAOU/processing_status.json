@@ -1,0 +1,14 @@
+{
+  "video_id": "_OYKnrktAOU",
+  "title": "\u201cSystems Within Systems\u201d \u2013 William Blake, FOIA, Cognitive Sovereignty, and PyMDP social learning",
+  "processing_started": "2025-06-09T09:05:52.275991",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "patterns_completed": [
+    "summarize"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T12:30:11.861527"
+}

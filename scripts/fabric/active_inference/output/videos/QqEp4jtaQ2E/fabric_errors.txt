@@ -1,0 +1,6 @@
+Fabric analysis errors for QqEp4jtaQ2E
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for QqEp4jtaQ2E: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:01:50.274701

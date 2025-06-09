@@ -1,0 +1,14 @@
+{
+  "video_id": "FymR0rKdLZo",
+  "title": "Using category theory to assess the relationship between consciousness and integrated information theory",
+  "processing_started": "2025-06-09T09:05:52.243379",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for FymR0rKdLZo: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:01:32.185460"
+}

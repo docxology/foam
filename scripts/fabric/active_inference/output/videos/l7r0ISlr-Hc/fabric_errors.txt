@@ -1,0 +1,6 @@
+Fabric analysis errors for l7r0ISlr-Hc
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for l7r0ISlr-Hc: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:00:22.784646

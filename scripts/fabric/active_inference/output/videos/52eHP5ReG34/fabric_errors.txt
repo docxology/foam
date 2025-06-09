@@ -1,0 +1,6 @@
+Fabric analysis errors for 52eHP5ReG34
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for 52eHP5ReG34: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:04:28.011471

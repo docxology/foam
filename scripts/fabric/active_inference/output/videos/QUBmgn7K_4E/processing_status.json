@@ -1,0 +1,14 @@
+{
+  "video_id": "QUBmgn7K_4E",
+  "title": "The Human Governance Problem: Complex Systems and the Limits of Human Cognition",
+  "processing_started": "2025-06-09T09:05:52.231591",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for QUBmgn7K_4E: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:00:23.636696"
+}

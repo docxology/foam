@@ -1,0 +1,15 @@
+{
+  "video_id": "YjTD_Ifw_qA",
+  "title": "How particular is the physics of the Free Energy Principle?",
+  "processing_started": "2025-06-09T09:05:52.199046",
+  "transcript_downloaded": false,
+  "transcript_error": "Exception during transcript download for YjTD_Ifw_qA: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=YjTD_Ifw_qA']' returned non-zero exit status 1.",
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for YjTD_Ifw_qA: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "processing_failed": "2025-06-09T09:07:26.841427",
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T12:58:19.664566"
+}

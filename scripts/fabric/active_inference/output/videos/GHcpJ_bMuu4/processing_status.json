@@ -1,0 +1,19 @@
+{
+  "video_id": "GHcpJ_bMuu4",
+  "title": "Free Energy: A User's Guide",
+  "processing_started": "2025-06-09T09:05:52.210433",
+  "transcript_downloaded": true,
+  "transcript_error": null,
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "transcript_completed": "2025-06-09T09:09:36.125895",
+  "patterns_completed": [
+    "summarize",
+    "extract_wisdom",
+    "extract_ideas",
+    "extract_insights",
+    "create_summary"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T11:48:57.141453"
+}

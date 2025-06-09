@@ -1,0 +1,3 @@
+Transcript download failed for g2n47dPUyNY
+Error: Exception during transcript download for g2n47dPUyNY: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=g2n47dPUyNY']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T08:11:47.845008

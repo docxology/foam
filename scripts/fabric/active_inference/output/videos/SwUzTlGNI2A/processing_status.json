@@ -1,0 +1,14 @@
+{
+  "video_id": "SwUzTlGNI2A",
+  "title": "Coordination dynamics of multi\u2011agent interaction in a musical ensemble",
+  "processing_started": "2025-06-09T09:05:52.217710",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for SwUzTlGNI2A: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T12:59:24.970729"
+}

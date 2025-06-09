@@ -1,0 +1,19 @@
+{
+  "video_id": "gQQyd8Hd3AA",
+  "title": "\u201cThe Math is not the Territory: Navigating the Free Energy Principle\u201d",
+  "processing_started": "2025-06-09T08:36:46.297907",
+  "transcript_downloaded": true,
+  "transcript_error": null,
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "transcript_completed": "2025-06-09T08:37:33.397315",
+  "patterns_completed": [
+    "summarize",
+    "extract_wisdom",
+    "extract_ideas",
+    "extract_insights",
+    "create_summary"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T08:43:21.033189"
+}

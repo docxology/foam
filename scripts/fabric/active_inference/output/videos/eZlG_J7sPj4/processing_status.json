@@ -1,0 +1,15 @@
+{
+  "video_id": "eZlG_J7sPj4",
+  "title": "Bayesian Mechanics for Stationary Processes",
+  "processing_started": "2025-06-09T09:05:52.202082",
+  "transcript_downloaded": false,
+  "transcript_error": "Exception during transcript download for eZlG_J7sPj4: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=eZlG_J7sPj4']' returned non-zero exit status 1.",
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for eZlG_J7sPj4: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "processing_failed": "2025-06-09T09:07:56.279671",
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T12:58:34.173878"
+}

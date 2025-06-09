@@ -1,0 +1,6 @@
+Fabric analysis errors for 1Xu8jYKWsGM
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for 1Xu8jYKWsGM: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:03:58.688026

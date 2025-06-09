@@ -1,0 +1,6 @@
+Fabric analysis errors for 6WP7mY13lzc
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for 6WP7mY13lzc: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T12:59:05.776465

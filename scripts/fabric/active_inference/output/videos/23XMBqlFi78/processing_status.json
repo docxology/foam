@@ -1,0 +1,14 @@
+{
+  "video_id": "23XMBqlFi78",
+  "title": "Mentalizing, Schizophrenia, Consciousness",
+  "processing_started": "2025-06-09T09:05:52.259200",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "patterns_completed": [
+    "summarize"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T12:24:22.642755"
+}

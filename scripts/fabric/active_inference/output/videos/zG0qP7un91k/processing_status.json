@@ -1,0 +1,19 @@
+{
+  "video_id": "zG0qP7un91k",
+  "title": "Scaling active inference",
+  "processing_started": "2025-06-09T08:11:34.727839",
+  "transcript_downloaded": true,
+  "transcript_error": null,
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "transcript_completed": "2025-06-09T08:12:05.442982",
+  "patterns_completed": [
+    "summarize",
+    "extract_wisdom",
+    "extract_ideas",
+    "extract_insights",
+    "create_summary"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T08:18:39.588816"
+}

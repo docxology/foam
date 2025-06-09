@@ -1,0 +1,14 @@
+{
+  "video_id": "mrFZwfYuthk",
+  "title": "Oversampled and undersolved. (Depressive) Rumination from an active inference perspective.",
+  "processing_started": "2025-06-09T09:05:52.239462",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for mrFZwfYuthk: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:01:13.538181"
+}

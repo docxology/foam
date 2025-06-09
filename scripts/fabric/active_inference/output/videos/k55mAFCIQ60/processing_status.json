@@ -1,0 +1,14 @@
+{
+  "video_id": "k55mAFCIQ60",
+  "title": "Lecture 4 \u2014 Course information",
+  "processing_started": "2025-06-09T09:05:52.247739",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for k55mAFCIQ60: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:02:03.695053"
+}

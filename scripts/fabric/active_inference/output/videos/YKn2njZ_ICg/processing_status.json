@@ -1,0 +1,15 @@
+{
+  "video_id": "YKn2njZ_ICg",
+  "title": "Modelling ourselves: what the free energy principle reveals about our implicit notions of representation",
+  "processing_started": "2025-06-09T09:05:52.209772",
+  "transcript_downloaded": false,
+  "transcript_error": "Exception during transcript download for YKn2njZ_ICg: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=YKn2njZ_ICg']' returned non-zero exit status 1.",
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for YKn2njZ_ICg: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "processing_failed": "2025-06-09T09:09:26.064210",
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T12:59:01.557631"
+}

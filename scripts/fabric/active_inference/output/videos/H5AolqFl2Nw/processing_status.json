@@ -1,0 +1,19 @@
+{
+  "video_id": "H5AolqFl2Nw",
+  "title": "A step-by-step tutorial on active inference and its application to empirical data",
+  "processing_started": "2025-06-09T08:50:45.037868",
+  "transcript_downloaded": true,
+  "transcript_error": null,
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "transcript_completed": "2025-06-09T08:51:21.126125",
+  "patterns_completed": [
+    "summarize",
+    "extract_wisdom",
+    "extract_ideas",
+    "extract_insights",
+    "create_summary"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T08:58:21.916470"
+}

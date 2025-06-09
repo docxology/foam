@@ -1,0 +1,15 @@
+{
+  "video_id": "Y8Y4f-SEcsI",
+  "title": "The predictive global neuronal workspace: A formal active inference model of visual consciousness",
+  "processing_started": "2025-06-09T09:05:52.192200",
+  "transcript_downloaded": false,
+  "transcript_error": "Exception during transcript download for Y8Y4f-SEcsI: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=Y8Y4f-SEcsI']' returned non-zero exit status 1.",
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for Y8Y4f-SEcsI: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "processing_failed": "2025-06-09T09:06:39.113272",
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:09:45.428693"
+}

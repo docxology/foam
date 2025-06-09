@@ -1,0 +1,6 @@
+Fabric analysis errors for nT11dSbr6QE
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for nT11dSbr6QE: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:06:23.298582

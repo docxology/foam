@@ -1,0 +1,14 @@
+{
+  "video_id": "ee6_mNOfP38",
+  "title": "Symposium Part 1, 19 sessions (Program)",
+  "processing_started": "2025-06-09T09:05:52.279045",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "patterns_completed": [
+    "summarize"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T12:32:02.529624"
+}

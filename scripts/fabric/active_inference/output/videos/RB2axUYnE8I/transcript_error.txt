@@ -1,0 +1,3 @@
+Transcript download failed for RB2axUYnE8I
+Error: Exception during transcript download for RB2axUYnE8I: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=RB2axUYnE8I']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T09:10:11.509257

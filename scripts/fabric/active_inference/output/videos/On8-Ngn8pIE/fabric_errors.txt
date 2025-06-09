@@ -1,0 +1,6 @@
+Fabric analysis errors for On8-Ngn8pIE
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for On8-Ngn8pIE: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:01:20.375971

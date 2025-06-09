@@ -1,0 +1,6 @@
+Fabric analysis errors for j5FVxPubslo
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for j5FVxPubslo: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:00:58.587163

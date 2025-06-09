@@ -1,0 +1,6 @@
+Fabric analysis errors for B6Uqf_T-nec
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for B6Uqf_T-nec: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:09:20.237705

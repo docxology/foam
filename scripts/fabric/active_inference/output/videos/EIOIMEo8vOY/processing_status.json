@@ -1,0 +1,14 @@
+{
+  "video_id": "EIOIMEo8vOY",
+  "title": "Case of the Evolving CEREBRUM: The Curious Language of the Incident",
+  "processing_started": "2025-06-09T09:05:52.286966",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for EIOIMEo8vOY: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:06:18.676852"
+}

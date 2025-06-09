@@ -1,0 +1,6 @@
+Fabric analysis errors for _cmYWZ8X4J4
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for _cmYWZ8X4J4: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:00:29.711201

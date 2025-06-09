@@ -1,0 +1,14 @@
+{
+  "video_id": "5OSdKU3Viu0",
+  "title": "Affordances, Enaction, Phenomenology",
+  "processing_started": "2025-06-09T09:05:52.261351",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for 5OSdKU3Viu0: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:03:05.191605"
+}

@@ -1,0 +1,19 @@
+{
+  "video_id": "jaw0QmAvAQU",
+  "title": "2021 Quarterly Roundtable #1",
+  "processing_started": "2025-06-09T08:11:34.730940",
+  "transcript_downloaded": true,
+  "transcript_error": null,
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "transcript_completed": "2025-06-09T08:13:06.516058",
+  "patterns_completed": [
+    "summarize",
+    "extract_wisdom",
+    "extract_ideas",
+    "extract_insights",
+    "create_summary"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T08:22:14.963783"
+}

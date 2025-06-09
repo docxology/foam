@@ -1,0 +1,14 @@
+{
+  "video_id": "dtw7RaxaFTo",
+  "title": "Dementors, Animagus and Episodic Memory: an Active Inference exploration of Harry Potter and the Prisoner of Azkaban Part II",
+  "processing_started": "2025-06-09T09:05:52.274911",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for dtw7RaxaFTo: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:04:13.483090"
+}

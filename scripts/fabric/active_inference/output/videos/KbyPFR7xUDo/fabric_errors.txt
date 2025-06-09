@@ -1,0 +1,6 @@
+Fabric analysis errors for KbyPFR7xUDo
+Patterns completed: ['summarize', 'extract_ideas', 'extract_insights', 'create_summary']
+Patterns skipped: []
+Errors:
+  - Exception during extract_wisdom analysis for KbyPFR7xUDo: Command '['/home/trim/go/bin/fabric', '--pattern', 'extract_wisdom']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T11:52:55.119607

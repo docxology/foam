@@ -1,0 +1,6 @@
+Fabric analysis errors for ps3B2dfmK5Y
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for ps3B2dfmK5Y: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:03:12.054236

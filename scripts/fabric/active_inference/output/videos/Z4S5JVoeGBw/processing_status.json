@@ -1,0 +1,15 @@
+{
+  "video_id": "Z4S5JVoeGBw",
+  "title": "Active Inferants: An Active Inference Framework for Ant Colony Behavior",
+  "processing_started": "2025-06-09T09:05:52.204801",
+  "transcript_downloaded": false,
+  "transcript_error": "Exception during transcript download for Z4S5JVoeGBw: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=Z4S5JVoeGBw']' returned non-zero exit status 1.",
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for Z4S5JVoeGBw: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "processing_failed": "2025-06-09T09:08:24.673727",
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T12:58:50.180402"
+}

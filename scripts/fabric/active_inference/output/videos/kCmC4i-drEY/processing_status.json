@@ -1,0 +1,14 @@
+{
+  "video_id": "kCmC4i-drEY",
+  "title": "Cognitive Experience Design (CXD): Designing AI Systems for Trust",
+  "processing_started": "2025-06-09T09:05:52.281308",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for kCmC4i-drEY: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:05:53.643159"
+}

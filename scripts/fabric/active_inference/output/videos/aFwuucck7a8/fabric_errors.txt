@@ -1,0 +1,6 @@
+Fabric analysis errors for aFwuucck7a8
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for aFwuucck7a8: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:01:53.344566

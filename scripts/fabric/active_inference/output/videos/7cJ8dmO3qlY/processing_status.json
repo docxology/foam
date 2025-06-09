@@ -1,0 +1,19 @@
+{
+  "video_id": "7cJ8dmO3qlY",
+  "title": "Variational ecology and the physics of sentient systems",
+  "processing_started": "2025-06-09T09:05:52.186369",
+  "transcript_downloaded": true,
+  "transcript_error": null,
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "transcript_completed": "2025-06-09T09:05:58.942403",
+  "patterns_completed": [
+    "summarize",
+    "extract_wisdom",
+    "extract_ideas",
+    "extract_insights",
+    "create_summary"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T10:32:29.294829"
+}

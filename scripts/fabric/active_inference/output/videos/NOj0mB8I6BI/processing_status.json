@@ -1,0 +1,14 @@
+{
+  "video_id": "NOj0mB8I6BI",
+  "title": "Causal Inference via Predictive Coding",
+  "processing_started": "2025-06-09T09:05:52.246972",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "patterns_completed": [
+    "summarize"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T12:19:14.466380"
+}

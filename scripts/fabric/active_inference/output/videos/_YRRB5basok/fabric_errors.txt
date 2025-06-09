@@ -1,0 +1,6 @@
+Fabric analysis errors for _YRRB5basok
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for _YRRB5basok: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:06:29.852560

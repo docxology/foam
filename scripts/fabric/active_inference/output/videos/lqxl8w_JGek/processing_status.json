@@ -1,0 +1,15 @@
+{
+  "video_id": "lqxl8w_JGek",
+  "title": "An empirical evaluation of active inference in multi-armed bandits",
+  "processing_started": "2025-06-09T09:05:52.201026",
+  "transcript_downloaded": false,
+  "transcript_error": "Exception during transcript download for lqxl8w_JGek: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=lqxl8w_JGek']' returned non-zero exit status 1.",
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for lqxl8w_JGek: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "processing_failed": "2025-06-09T09:07:46.555087",
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T12:58:27.623992"
+}

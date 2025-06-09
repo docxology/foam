@@ -1,0 +1,6 @@
+Fabric analysis errors for FB_93-zDqNo
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for FB_93-zDqNo: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:00:46.922011

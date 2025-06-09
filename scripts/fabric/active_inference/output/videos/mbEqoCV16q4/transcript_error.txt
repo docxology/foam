@@ -1,0 +1,3 @@
+Transcript download failed for mbEqoCV16q4
+Error: Exception during transcript download for mbEqoCV16q4: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=mbEqoCV16q4']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T09:07:09.008655

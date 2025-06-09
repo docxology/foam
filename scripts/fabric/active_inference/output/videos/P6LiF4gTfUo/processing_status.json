@@ -1,0 +1,19 @@
+{
+  "video_id": "P6LiF4gTfUo",
+  "title": "\u201cThe neural correlates of consciousness under the free energy principle: From computational correlates to computational explanation\u201d",
+  "processing_started": "2025-06-09T09:05:52.190286",
+  "transcript_downloaded": true,
+  "transcript_error": null,
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "transcript_completed": "2025-06-09T09:06:23.965045",
+  "patterns_completed": [
+    "summarize",
+    "extract_wisdom",
+    "extract_ideas",
+    "extract_insights",
+    "create_summary"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T10:41:10.649666"
+}

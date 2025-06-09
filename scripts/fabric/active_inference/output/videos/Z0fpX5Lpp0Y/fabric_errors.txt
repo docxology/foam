@@ -1,0 +1,6 @@
+Fabric analysis errors for Z0fpX5Lpp0Y
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for Z0fpX5Lpp0Y: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T12:58:49.155399

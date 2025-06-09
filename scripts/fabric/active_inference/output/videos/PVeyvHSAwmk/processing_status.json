@@ -1,0 +1,14 @@
+{
+  "video_id": "PVeyvHSAwmk",
+  "title": "3rd Applied Active Inference Symposium \u201cEnacting Ecosystems of Shared Intelligence\u201d, part 2",
+  "processing_started": "2025-06-09T09:05:52.248250",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "patterns_completed": [
+    "summarize"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T12:19:52.879821"
+}

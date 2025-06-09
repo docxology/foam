@@ -1,0 +1,14 @@
+{
+  "video_id": "ps3B2dfmK5Y",
+  "title": "Mental gravity: Modelling the embodied self on the physical environment",
+  "processing_started": "2025-06-09T09:05:52.263114",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for ps3B2dfmK5Y: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:03:12.053793"
+}

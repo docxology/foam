@@ -1,0 +1,6 @@
+Fabric analysis errors for o7sJ-5vFJGk
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for o7sJ-5vFJGk: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:09:37.326447

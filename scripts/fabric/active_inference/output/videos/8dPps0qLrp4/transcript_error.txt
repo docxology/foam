@@ -1,0 +1,3 @@
+Transcript download failed for 8dPps0qLrp4
+Error: Exception during transcript download for 8dPps0qLrp4: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=8dPps0qLrp4']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T08:37:23.663801

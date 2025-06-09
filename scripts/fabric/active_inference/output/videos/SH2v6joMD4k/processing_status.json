@@ -1,0 +1,19 @@
+{
+  "video_id": "SH2v6joMD4k",
+  "title": "Bayesian Mechanics for Stationary Processes",
+  "processing_started": "2025-06-09T09:05:52.202599",
+  "transcript_downloaded": true,
+  "transcript_error": null,
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "transcript_completed": "2025-06-09T09:08:03.311799",
+  "patterns_completed": [
+    "summarize",
+    "extract_wisdom",
+    "extract_ideas",
+    "extract_insights",
+    "create_summary"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T11:16:08.091855"
+}

@@ -1,0 +1,14 @@
+{
+  "video_id": "Sz7ZP2N6DuE",
+  "title": "Working with Gerald Edelman",
+  "processing_started": "2025-06-09T09:05:52.249876",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "patterns_completed": [
+    "summarize"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T12:20:51.930301"
+}

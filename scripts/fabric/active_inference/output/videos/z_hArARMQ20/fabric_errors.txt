@@ -1,0 +1,6 @@
+Fabric analysis errors for z_hArARMQ20
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for z_hArARMQ20: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:09:48.108473

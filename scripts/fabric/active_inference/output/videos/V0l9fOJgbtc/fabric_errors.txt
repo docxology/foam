@@ -1,0 +1,6 @@
+Fabric analysis errors for V0l9fOJgbtc
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for V0l9fOJgbtc: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T12:59:45.373248

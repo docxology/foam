@@ -1,0 +1,3 @@
+Transcript download failed for Ga8EZMGO460
+Error: Exception during transcript download for Ga8EZMGO460: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=Ga8EZMGO460']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T09:09:02.467234

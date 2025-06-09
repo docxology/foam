@@ -1,0 +1,15 @@
+{
+  "video_id": "szCSh8pVEa4",
+  "title": "The Emperor\u2019s New Markov Blankets [2020 version]",
+  "processing_started": "2025-06-09T09:05:52.195068",
+  "transcript_downloaded": false,
+  "transcript_error": "Exception during transcript download for szCSh8pVEa4: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=szCSh8pVEa4']' returned non-zero exit status 1.",
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for szCSh8pVEa4: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "processing_failed": "2025-06-09T09:07:01.095601",
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:09:55.981717"
+}

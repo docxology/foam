@@ -1,0 +1,14 @@
+{
+  "video_id": "qDilepcGCNs",
+  "title": "Dementors, Animagus and Episodic Memory: an Active Inference exploration of \u201cHarry Potter and the Prisoner of Azkaban",
+  "processing_started": "2025-06-09T09:05:52.273838",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "patterns_completed": [
+    "summarize"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T12:29:10.186342"
+}

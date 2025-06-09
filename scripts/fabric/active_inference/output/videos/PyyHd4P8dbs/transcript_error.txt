@@ -1,0 +1,3 @@
+Transcript download failed for PyyHd4P8dbs
+Error: Exception during transcript download for PyyHd4P8dbs: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=PyyHd4P8dbs']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T08:51:19.096542

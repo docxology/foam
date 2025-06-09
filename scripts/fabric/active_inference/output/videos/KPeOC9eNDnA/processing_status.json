@@ -1,0 +1,14 @@
+{
+  "video_id": "KPeOC9eNDnA",
+  "title": "Backpropagation-Free 4D Continuous Ant-Based Neural Topology Search",
+  "processing_started": "2025-06-09T09:05:52.247835",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for KPeOC9eNDnA: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:02:04.873759"
+}

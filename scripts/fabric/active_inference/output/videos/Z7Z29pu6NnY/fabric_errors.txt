@@ -1,0 +1,6 @@
+Fabric analysis errors for Z7Z29pu6NnY
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for Z7Z29pu6NnY: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T12:59:43.145161

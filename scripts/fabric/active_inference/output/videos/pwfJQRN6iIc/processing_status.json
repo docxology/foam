@@ -1,0 +1,14 @@
+{
+  "video_id": "pwfJQRN6iIc",
+  "title": "What's Wrong with Active Inference and How Lazy Dynamics Is Set to Solve It",
+  "processing_started": "2025-06-09T09:05:52.285050",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "patterns_completed": [
+    "summarize"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T12:34:23.892413"
+}

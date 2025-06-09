@@ -1,0 +1,6 @@
+Fabric analysis errors for dUW8cD8XUec
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for dUW8cD8XUec: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:01:40.608000

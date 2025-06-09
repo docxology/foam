@@ -1,0 +1,14 @@
+{
+  "video_id": "xgMW47d8H2k",
+  "title": "The Police Hunch: The Bayesian Brain, Active Inference, and the Free Energy Principle in Action",
+  "processing_started": "2025-06-09T09:05:52.266622",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for xgMW47d8H2k: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:03:29.113058"
+}

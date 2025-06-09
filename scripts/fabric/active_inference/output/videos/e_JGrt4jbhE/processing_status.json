@@ -1,0 +1,15 @@
+{
+  "video_id": "e_JGrt4jbhE",
+  "title": "Extended Predictive Minds: do Markov Blankets Matter?",
+  "processing_started": "2025-06-09T09:05:52.216343",
+  "transcript_downloaded": false,
+  "transcript_error": "Exception during transcript download for e_JGrt4jbhE: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=e_JGrt4jbhE']' returned non-zero exit status 1.",
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for e_JGrt4jbhE: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "processing_failed": "2025-06-09T09:10:03.621382",
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T12:59:12.809542"
+}

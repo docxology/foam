@@ -1,0 +1,14 @@
+{
+  "video_id": "HThdpvQzA4o",
+  "title": "The logic of NTQR evaluations of noisy judges: Complete postulates and logically consistent error correlation",
+  "processing_started": "2025-06-09T09:05:52.257594",
+  "transcript_downloaded": false,
+  "transcript_error": null,
+  "fabric_analyses_completed": false,
+  "fabric_errors": [
+    "Exception during summarize analysis for HThdpvQzA4o: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1."
+  ],
+  "patterns_completed": [],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T13:02:51.064670"
+}

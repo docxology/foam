@@ -1,0 +1,3 @@
+Transcript download failed for PgzQrHSu1CU
+Error: Exception during transcript download for PgzQrHSu1CU: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=PgzQrHSu1CU']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T09:07:30.758007

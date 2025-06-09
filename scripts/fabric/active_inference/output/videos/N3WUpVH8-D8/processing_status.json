@@ -1,0 +1,19 @@
+{
+  "video_id": "N3WUpVH8-D8",
+  "title": "How to count biological minds: symbiosis, the free energy principle, and reciprocal multiscale integration",
+  "processing_started": "2025-06-09T09:05:52.204954",
+  "transcript_downloaded": false,
+  "transcript_error": "Exception during transcript download for N3WUpVH8-D8: Command '['/home/trim/go/bin/fabric', '-y', 'https://www.youtube.com/watch?v=N3WUpVH8-D8']' returned non-zero exit status 1.",
+  "fabric_analyses_completed": true,
+  "fabric_errors": [],
+  "processing_failed": "2025-06-09T09:08:26.473708",
+  "patterns_completed": [
+    "summarize",
+    "extract_wisdom",
+    "extract_ideas",
+    "extract_insights",
+    "create_summary"
+  ],
+  "patterns_skipped": [],
+  "fabric_analysis_finished": "2025-06-09T11:21:27.677806"
+}

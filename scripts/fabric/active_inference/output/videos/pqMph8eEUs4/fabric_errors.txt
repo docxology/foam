@@ -1,0 +1,6 @@
+Fabric analysis errors for pqMph8eEUs4
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for pqMph8eEUs4: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T13:06:26.322932

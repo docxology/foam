@@ -1,0 +1,6 @@
+Fabric analysis errors for Fx7xWUU1MlI
+Patterns completed: []
+Patterns skipped: []
+Errors:
+  - Exception during summarize analysis for Fx7xWUU1MlI: Command '['/home/trim/go/bin/fabric', '--pattern', 'summarize']' returned non-zero exit status 1.
+Timestamp: 2025-06-09T12:58:24.406417
